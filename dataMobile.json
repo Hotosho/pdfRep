@@ -1,0 +1,317 @@
+[
+  {
+    "name": "iPhone 4",
+    "release_date": "2010-06-24",
+    "price": 599
+  },
+  {
+    "name": "Samsung Galaxy S II",
+    "release_date": "2011-04-28",
+    "price": 599
+  },
+  {
+    "name": "iPhone 4S",
+    "release_date": "2011-10-14",
+    "price": 649
+  },
+  {
+    "name": "Samsung Galaxy Nexus",
+    "release_date": "2011-11-17",
+    "price": 399
+  },
+  {
+    "name": "HTC One X",
+    "release_date": "2012-04-05",
+    "price": 549
+  },
+  {
+    "name": "Samsung Galaxy S III",
+    "release_date": "2012-05-29",
+    "price": 599
+  },
+  {
+    "name": "Nokia Lumia 920",
+    "release_date": "2012-11-02",
+    "price": 449
+  },
+  {
+    "name": "iPhone 5",
+    "release_date": "2012-09-21",
+    "price": 649
+  },
+  {
+    "name": "Samsung Galaxy Note II",
+    "release_date": "2012-09-26",
+    "price": 599
+  },
+  {
+    "name": "LG Nexus 4",
+    "release_date": "2012-11-13",
+    "price": 299
+  },
+  {
+    "name": "HTC One (M7)",
+    "release_date": "2013-03-15",
+    "price": 599
+  },
+  {
+    "name": "Samsung Galaxy S4",
+    "release_date": "2013-04-27",
+    "price": 599
+  },
+  {
+    "name": "LG G2",
+    "release_date": "2013-09-12",
+    "price": 499
+  },
+  {
+    "name": "iPhone 5S",
+    "release_date": "2013-09-20",
+    "price": 649
+  },
+  {
+    "name": "Nexus 5",
+    "release_date": "2013-11-01",
+    "price": 349
+  },
+  {
+    "name": "Samsung Galaxy Note 3",
+    "release_date": "2013-09-04",
+    "price": 699
+  },
+  {
+    "name": "iPhone 6",
+    "release_date": "2014-09-19",
+    "price": 649
+  },
+  {
+    "name": "Samsung Galaxy S5",
+    "release_date": "2014-04-11",
+    "price": 649
+  },
+  {
+    "name": "LG G3",
+    "release_date": "2014-06-27",
+    "price": 499
+  },
+  {
+    "name": "Google Nexus 6",
+    "release_date": "2014-11-21",
+    "price": 649
+  },
+  {
+    "name": "iPhone 6S",
+    "release_date": "2015-09-25",
+    "price": 649
+  },
+  {
+    "name": "Samsung Galaxy Note 4",
+    "release_date": "2014-10-17",
+    "price": 699
+  },
+  {
+    "name": "HTC One M9",
+    "release_date": "2015-03-27",
+    "price": 649
+  },
+  {
+    "name": "Samsung Galaxy S6",
+    "release_date": "2015-04-10",
+    "price": 599
+  },
+  {
+    "name": "LG G4",
+    "release_date": "2015-04-28",
+    "price": 499
+  },
+  {
+    "name": "iPhone SE",
+    "release_date": "2016-03-31",
+    "price": 399
+  },
+  {
+    "name": "Samsung Galaxy S7",
+    "release_date": "2016-03-11",
+    "price": 599
+  },
+  {
+    "name": "LG G5",
+    "release_date": "2016-04-01",
+    "price": 649
+  },
+  {
+    "name": "Google Pixel",
+    "release_date": "2016-10-04",
+    "price": 649
+  },
+  {
+    "name": "iPhone 7",
+    "release_date": "2016-09-16",
+    "price": 649
+  },
+  {
+    "name": "Samsung Galaxy S8",
+    "release_date": "2017-04-21",
+    "price": 724
+  },
+  {
+    "name": "LG V20",
+    "release_date": "2016-09-06",
+    "price": 799
+  },
+  {
+    "name": "Google Pixel 2",
+    "release_date": "2017-10-04",
+    "price": 649
+  },
+  {
+    "name": "iPhone 8",
+    "release_date": "2017-09-22",
+    "price": 699
+  },
+  {
+    "name": "Samsung Galaxy Note 8",
+    "release_date": "2017-08-23",
+    "price": 929
+  },
+  {
+    "name": "LG V30",
+    "release_date": "2017-09-21",
+    "price": 799
+  },
+  {
+    "name": "iPhone X",
+    "release_date": "2017-11-03",
+    "price": 999
+  },
+  {
+    "name": "Google Pixel 3",
+    "release_date": "2018-10-09",
+    "price": 799
+  },
+  {
+    "name": "Samsung Galaxy S9",
+    "release_date": "2018-03-16",
+    "price": 719
+  },
+  {
+    "name": "iPhone XR",
+    "release_date": "2018-10-26",
+    "price": 749
+  },
+  {
+    "name": "OnePlus 6",
+    "release_date": "2018-05-22",
+    "price": 529
+  },
+  {
+    "name": "Samsung Galaxy Note 9",
+    "release_date": "2018-08-24",
+    "price": 999
+  },
+  {
+    "name": "iPhone XS",
+    "release_date": "2018-09-21",
+    "price": 999
+  },
+  {
+    "name": "Google Pixel 3 XL",
+    "release_date": "2018-10-09",
+    "price": 899
+  },
+  {
+    "name": "Samsung Galaxy S10",
+    "release_date": "2019-03-08",
+    "price": 899
+  },
+  {
+    "name": "iPhone 11",
+    "release_date": "2019-09-20",
+    "price": 699
+  },
+  {
+    "name": "OnePlus 7 Pro",
+    "release_date": "2019-05-14",
+    "price": 669
+  },
+  {
+    "name": "Samsung Galaxy Note 10",
+    "release_date": "2019-08-23",
+    "price": 949
+  },
+  {
+    "name": "Google Pixel 4",
+    "release_date": "2019-10-24",
+    "price": 799
+  },
+  {
+    "name": "iPhone SE (2nd generation)",
+    "release_date": "2020-04-24",
+    "price": 399
+  },
+  {
+    "name": "Samsung Galaxy S20",
+    "release_date": "2020-03-06",
+    "price": 999
+  },
+  {
+    "name": "OnePlus 8 Pro",
+    "release_date": "2020-04-14",
+    "price": 899
+  },
+  {
+    "name": "iPhone 12",
+    "release_date": "2020-10-23",
+    "price": 799
+  },
+  {
+    "name": "Samsung Galaxy Note 20",
+    "release_date": "2020-08-21",
+    "price": 999
+  },
+  {
+    "name": "Google Pixel 5",
+    "release_date": "2020-10-15",
+    "price": 699
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "release_date": "2021-01-29",
+    "price": 799
+  },
+  {
+    "name": "iPhone 12 mini",
+    "release_date": "2020-11-13",
+    "price": 699
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "release_date": "2021-03-23",
+    "price": 969
+  },
+  {
+    "name": "Samsung Galaxy A52",
+    "release_date": "2021-03-26",
+    "price": 399
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "release_date": "2020-10-23",
+    "price": 999
+  },
+  {
+    "name": "Google Pixel 4a",
+    "release_date": "2020-08-20",
+    "price": 349
+  },
+  {
+    "name": "Samsung Galaxy S21 Ultra",
+    "release_date": "2021-01-29",
+    "price": 1199
+  },
+  {
+    "name": "OnePlus 9",
+    "release_date": "2021-03-23",
+    "price": 729
+  }
+]
